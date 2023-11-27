@@ -1,0 +1,34 @@
+header {
+   backgrund-color:  aquamarine;
+    color: black;
+}
+
+body {
+   background-color: black;
+    color: white;
+}
+
+h1 {
+    color: red;
+}
+
+.paragrafo-1 {
+    color:
+}
+
+.subtitulo {
+    color: yellowgreen;
+}
+
+.listas {
+     color: rgb(135,206,235);
+}
+
+.imagem-1 {
+     width: 40%;
+}
+
+ footer {
+   background-color: aquamarine;  
+    color: black;
+ }
